@@ -1,0 +1,147 @@
+
+/* Class = "UILabel"; text = "一般叫車"; ObjectID = "0cb-AQ-KcM"; */
+"0cb-AQ-KcM.text" = "一般叫車";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "1MD-Vx-VNf"; */
+"1MD-Vx-VNf.text" = "1";
+
+/* Class = "UILabel"; text = "V0"; ObjectID = "1oT-DV-YdO"; */
+"1oT-DV-YdO.text" = "V0";
+
+/* Class = "UILabel"; text = "已連線"; ObjectID = "3Xa-gP-cAj"; */
+"3Xa-gP-cAj.text" = "已連線";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "4t1-ir-SN1"; */
+"4t1-ir-SN1.text" = "20";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6D3-NH-Svw"; */
+"6D3-NH-Svw.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "版本：13/12/06"; ObjectID = "6i0-LE-dNa"; */
+"6i0-LE-dNa.text" = "版本：13/12/06";
+
+/* Class = "UIButton"; normalTitle = "登入"; ObjectID = "9oz-x7-52w"; */
+"9oz-x7-52w.normalTitle" = "登入";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "AM7-B6-8Of"; */
+"AM7-B6-8Of.text" = "10";
+
+/* Class = "UILabel"; text = "電梯狀態"; ObjectID = "AW3-BJ-kKH"; */
+"AW3-BJ-kKH.text" = "電梯狀態";
+
+/* Class = "UILabel"; text = "01"; ObjectID = "AlG-wP-QxH"; */
+"AlG-wP-QxH.text" = "01";
+
+/* Class = "UILabel"; text = "後門"; ObjectID = "BuH-SE-Eoy"; */
+"BuH-SE-Eoy.text" = "後門";
+
+/* Class = "UILabel"; text = "公司碼：67"; ObjectID = "Cx3-9f-waC"; */
+"Cx3-9f-waC.text" = "公司碼：67";
+
+/* Class = "UILabel"; text = "04"; ObjectID = "DFT-Bm-V4O"; */
+"DFT-Bm-V4O.text" = "04";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "GKd-5i-1VO"; */
+"GKd-5i-1VO.text" = "1";
+
+/* Class = "UILabel"; text = "UP"; ObjectID = "Gb2-1U-Cid"; */
+"Gb2-1U-Cid.text" = "UP";
+
+/* Class = "UILabel"; text = "已連線"; ObjectID = "L2j-nh-tr0"; */
+"L2j-nh-tr0.text" = "已連線";
+
+/* Class = "UILabel"; text = "時間"; ObjectID = "LUD-cK-6oK"; */
+"LUD-cK-6oK.text" = "時間";
+
+/* Class = "UILabel"; text = "V2"; ObjectID = "LZ1-dA-G2C"; */
+"LZ1-dA-G2C.text" = "V2";
+
+/* Class = "UILabel"; text = "M2"; ObjectID = "LgQ-QV-vJv"; */
+"LgQ-QV-vJv.text" = "M2";
+
+/* Class = "UILabel"; text = "UC"; ObjectID = "M8h-9s-nOg"; */
+"M8h-9s-nOg.text" = "UC";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OCt-BX-8ES"; */
+"OCt-BX-8ES.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "BK"; ObjectID = "Ok9-Nz-UMl"; */
+"Ok9-Nz-UMl.text" = "BK";
+
+/* Class = "UILabel"; text = "前門"; ObjectID = "PVQ-eu-ygY"; */
+"PVQ-eu-ygY.text" = "前門";
+
+/* Class = "UITextField"; placeholder = "輸入帳號"; ObjectID = "QAa-ji-TxW"; */
+"QAa-ji-TxW.placeholder" = "輸入帳號";
+
+/* Class = "UILabel"; text = "狀態"; ObjectID = "UuD-w3-hEy"; */
+"UuD-w3-hEy.text" = "狀態";
+
+/* Class = "UILabel"; text = "TX"; ObjectID = "VtD-29-moz"; */
+"VtD-29-moz.text" = "TX";
+
+/* Class = "UILabel"; text = "一般叫車"; ObjectID = "YOx-MY-WMp"; */
+"YOx-MY-WMp.text" = "一般叫車";
+
+/* Class = "UILabel"; text = "時段"; ObjectID = "Yge-AL-M68"; */
+"Yge-AL-M68.text" = "時段";
+
+/* Class = "UILabel"; text = "帳號："; ObjectID = "aqz-qn-KqX"; */
+"aqz-qn-KqX.text" = "帳號：";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cKU-zn-b5C"; */
+"cKU-zn-b5C.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "輸入密碼"; ObjectID = "cMM-lp-4aa"; */
+"cMM-lp-4aa.placeholder" = "輸入密碼";
+
+/* Class = "UILabel"; text = "版本：13/12/06"; ObjectID = "cTk-97-ANB"; */
+"cTk-97-ANB.text" = "版本：13/12/06";
+
+/* Class = "UILabel"; text = "RX"; ObjectID = "crp-Xu-SNb"; */
+"crp-Xu-SNb.text" = "RX";
+
+/* Class = "UILabel"; text = "登入"; ObjectID = "hcr-VX-qEc"; */
+"hcr-VX-qEc.text" = "登入";
+
+/* Class = "UILabel"; text = "08"; ObjectID = "hgl-Nt-y4d"; */
+"hgl-Nt-y4d.text" = "08";
+
+/* Class = "UILabel"; text = "DC"; ObjectID = "him-Ng-j4c"; */
+"him-Ng-j4c.text" = "DC";
+
+/* Class = "UILabel"; text = "RX"; ObjectID = "j4W-Jw-pRH"; */
+"j4W-Jw-pRH.text" = "RX";
+
+/* Class = "UILabel"; text = "02"; ObjectID = "liK-ct-5JT"; */
+"liK-ct-5JT.text" = "02";
+
+/* Class = "UILabel"; text = "公司碼：67"; ObjectID = "oqs-DS-61i"; */
+"oqs-DS-61i.text" = "公司碼：67";
+
+/* Class = "UIButton"; normalTitle = "清除訊息"; ObjectID = "ph2-zt-P2b"; */
+"ph2-zt-P2b.normalTitle" = "清除訊息";
+
+/* Class = "UINavigationItem"; title = "操作盤"; ObjectID = "qpd-8p-KEx"; */
+"qpd-8p-KEx.title" = "操作盤";
+
+/* Class = "UILabel"; text = "M1"; ObjectID = "rN4-yW-WfQ"; */
+"rN4-yW-WfQ.text" = "M1";
+
+/* Class = "UILabel"; text = "密碼："; ObjectID = "siJ-bK-Amr"; */
+"siJ-bK-Amr.text" = "密碼：";
+
+/* Class = "UILabel"; text = "TX"; ObjectID = "wA1-1U-81d"; */
+"wA1-1U-81d.text" = "TX";
+
+/* Class = "UILabel"; text = "V1"; ObjectID = "wyS-te-oAc"; */
+"wyS-te-oAc.text" = "V1";
+
+/* Class = "UILabel"; text = "DN"; ObjectID = "xEo-dI-nmM"; */
+"xEo-dI-nmM.text" = "DN";
+
+/* Class = "UILabel"; text = "電梯狀態"; ObjectID = "z06-Q8-8hX"; */
+"z06-Q8-8hX.text" = "電梯狀態";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zCN-f4-ZfP"; */
+"zCN-f4-ZfP.normalTitle" = "Button";
